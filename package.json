@@ -1,0 +1,22 @@
+{
+  "name": "strict-promisifier",
+  "version": "0.0.0",
+  "description": "Promise which never throws synchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thefourtheye/strict-promisifier.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Sakthipriyan Vairamani <thechargingvolcano@gmail.com> (thefourtheye)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thefourtheye/strict-promisifier/issues"
+  },
+  "homepage": "https://github.com/thefourtheye/strict-promisifier"
+}
